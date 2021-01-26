@@ -12,4 +12,4 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 - Kubernetes
 
 ## CI/CD
-![Alt Text](url)
+![Alt Text](https://github.com/AnuroopAich/Simple-DevOps-Project/blob/master/CICD.png)
